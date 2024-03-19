@@ -1,0 +1,14 @@
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\bin\Debug\net8.0\codigo.exe
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\bin\Debug\net8.0\codigo.deps.json
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\bin\Debug\net8.0\codigo.runtimeconfig.json
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\bin\Debug\net8.0\codigo.dll
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\bin\Debug\net8.0\codigo.pdb
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\codigo.AssemblyInfoInputs.cache
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\codigo.AssemblyInfo.cs
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\codigo.csproj.CoreCompileInputs.cache
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\codigo.dll
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\refint\codigo.dll
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\codigo.pdb
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\codigo.genruntimeconfig.cache
+C:\Users\gadlp\OneDrive\Documentos2\Trabajos\2024\UniversidadRafaelLandivar\CursoURL2024\ProyectosClase\PrimerProyecto8Pts\codigo\obj\Debug\net8.0\ref\codigo.dll
